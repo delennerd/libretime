@@ -580,7 +580,7 @@ msgstr "Zulu"
 
 #: airtime_mvc/application/common/Timezone.php:21
 msgid "Use station default"
-msgstr ""
+msgstr "Benutze Standard Station"
 
 #: airtime_mvc/application/common/UsabilityHints.php:66
 msgid "Upload some tracks below to add them to your library!"
@@ -655,7 +655,7 @@ msgstr "Player"
 #: airtime_mvc/application/configs/navigation.php:55
 #: airtime_mvc/application/views/scripts/embeddablewidgets/schedule.phtml:5
 msgid "Weekly Schedule"
-msgstr ""
+msgstr "Wöchentlicher Plan"
 
 #: airtime_mvc/application/configs/navigation.php:61
 msgid "Facebook"
@@ -673,7 +673,7 @@ msgstr "Allgemein"
 #: airtime_mvc/application/configs/navigation.php:83
 #: airtime_mvc/application/views/scripts/form/edit-user.phtml:1
 msgid "My Profile"
-msgstr ""
+msgstr "Mein Profil"
 
 #: airtime_mvc/application/configs/navigation.php:89
 msgid "Users"
